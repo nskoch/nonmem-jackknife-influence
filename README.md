@@ -66,10 +66,6 @@ Method note
 |dOFV| captures how much each subject moves the objective function; the THETA shift metrics capture how much each subject moves the parameter estimates. A subject high on both is genuinely influential. Interpretation is descriptive — this is an influence diagnostic, not a formal outlier test.
 
 License
-<!-- Add a LICENSE file (Add file > Create new file > name it "LICENSE" > pick a template). MIT is a common, permissive choice; match whatever you use for NMtree. -->
-
-(To be added — e.g. MIT.)
-
-Citation
+This project is licensed under the MIT License — see the LICENSE file.Citation
 
 If you use this script, please cite it. A CITATION.cff can be added so GitHub shows a "Cite this repository" button; a Zenodo release gives it a DOI.
