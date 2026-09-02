@@ -28,7 +28,7 @@ source("nm_jackknife.R")
 jk <- nm_jackknife(
   ctl       = "path/to/run.ctl",         # reference control stream
   nmfe_path = "C:/nm74/util/nmfe74.bat"  # NONMEM launcher
-  # lst, reference_data, id_col, output_dir, ... are auto-detected / optional
+  #lst, reference_data, id_col, output_dir, ... are auto-detected / optional
 )
 
 print(jk)           # ranked influence table
