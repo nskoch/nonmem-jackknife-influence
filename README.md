@@ -68,4 +68,5 @@ Method note
 License
 This project is licensed under the MIT License — see the LICENSE file.Citation
 
-If you use this script, please cite it. A CITATION.cff can be added so GitHub shows a "Cite this repository" button; a Zenodo release gives it a DOI.
+If you use this script, please cite it.
+DOI: 10.5281/zenodo.22257994 
