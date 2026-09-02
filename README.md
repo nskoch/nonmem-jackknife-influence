@@ -1,4 +1,4 @@
-nonmem-jackknife-influence
+# NONMEM-jackknife-influence
 
 A single, self-contained R function — nm_jackknife() — that performs a leave-one-subject-out jackknife on a fitted NONMEM model to quantify how much each individual influences the fit.
 
